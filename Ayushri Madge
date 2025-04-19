@@ -149,7 +149,7 @@
 <!-- Resume Layout --> 
 <div class="resume-container"> 
  <div class="sidebar"> 
- <img src="C:\Users\USER\Desktop\Ayushri Madge\Pi7_Tool_IMG-20250214-WA0006.jpg" alt = "Photo of Ayushri"/> 
+ <img src=Ayushri.jpg alt = "Photo of Ayushri"/> 
  <h2>Ayushri Umesh Madge</h2> 
  <p>Student</p> 
  <div class="section-title">CONTACT</div> 
